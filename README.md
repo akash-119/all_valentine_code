@@ -75,6 +75,60 @@ Below are some popular Valentine websites you can try:
 
 ---
 
+### 7. Valentine's Day Proposal Page
+
+![Valentine Proposal Preview](https://raw.githubusercontent.com/KanurkarPrateek/Valentines_Day_Proposal/main/screenshot.png)
+
+- **Live Demo**: https://kanurkarprateek.github.io/Valentines_Day_Proposal  
+- **Source Code**: https://github.com/KanurkarPrateek/Valentines_Day_Proposal[web:3]  
+- **Tech**: HTML, CSS, JavaScript  
+- **Best for**: Heartwarming proposal with cute animations and buttons.
+
+---
+
+### 8. Will You Be My Valentine? Interactive
+
+![Will You Be My Valentine Interactive Preview](https://raw.githubusercontent.com/ivysone/Will-you-be-my-Valentine-/main/screenshot.png)
+
+- **Live Demo**: https://ivysone.github.io/Will-you-be-my-Valentine-  
+- **Source Code**: https://github.com/ivysone/Will-you-be-my-Valentine-[web:8]  
+- **Tech**: HTML, CSS, JavaScript  
+- **Best for**: Simple interactive page with smooth interactions.
+
+---
+
+### 9. Ask Out Your Valentine (Tailwind CSS)
+
+![Ask Out Your Valentine Preview](https://raw.githubusercontent.com/CodeKageHQ/Ask-out-your-Valentine/main/screenshot.png)
+
+- **Live Demo**: https://codekagehq.github.io/Ask-out-your-Valentine  
+- **Source Code**: https://github.com/CodeKageHQ/Ask-out-your-Valentine[web:9]  
+- **Tech**: HTML, Tailwind CSS, JavaScript  
+- **Best for**: Modern Tailwind design with GIFs and dynamic responses.
+
+---
+
+### 10. Valentine Day Special 2024
+
+![Valentine Day Special Preview](https://raw.githubusercontent.com/swapniltake1/valentine-day-special/main/screenshot.png)
+
+- **Live Demo**: https://swapniltake1.github.io/valentine-day-special  
+- **Source Code**: https://github.com/swapniltake1/valentine-day-special[web:6]  
+- **Tech**: HTML, CSS, JavaScript  
+- **Best for**: Classic Valentine theme with love animations.
+
+---
+
+### 11. Valentine Week Celebration
+
+![Valentine Week Celebration Preview](https://raw.githubusercontent.com/nouzen-shinei/Valentine-Week/main/screenshot.png)
+
+- **Live Demo**: https://nouzen-shinei.github.io/Valentine-Week  
+- **Source Code**: https://github.com/nouzen-shinei/Valentine-Week[web:12]  
+- **Tech**: HTML, CSS, JavaScript  
+- **Best for**: Complete Valentine Week with countdowns and themes.
+
+
 ## 🔗 How to Use This Directory
 
 1. **Browse** the previews above.
